@@ -1,0 +1,18 @@
+nav{
+  background-color: aquamarine;
+  border-radius: 20%;
+
+}
+a{
+  display:inline-flex;
+  margin: 3% ;
+  color: rgb(214, 142, 53);
+  background-color: rgb(103, 103, 25);
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+a:hover
+{
+  background-color: blue;
+}
